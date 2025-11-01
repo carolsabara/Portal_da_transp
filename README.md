@@ -9,7 +9,7 @@ O foco da análise foi investigar as viagens realizadas por servidores públicos
 - **Extração de dados**: Coleta de informações relevantes sobre as viagens.
 - **Limpeza e transformação**: Preparação dos dados para análise.
 - **Análise exploratória**: Identificação de padrões e insights.
-- **Visualização**: Criação de gráficos e poer BI para facilitar a interpretação dos resultados.
+- **Visualização**: Criação de gráficos e power BI para facilitar a interpretação dos resultados.
 
 ## 🧰 Tecnologias Utilizadas
 
