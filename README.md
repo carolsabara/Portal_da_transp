@@ -9,7 +9,7 @@ O foco da análise foi investigar as viagens realizadas por servidores públicos
 - **Extração de dados**: Coleta de informações relevantes sobre as viagens.
 - **Limpeza e transformação**: Preparação dos dados para análise.
 - **Análise exploratória**: Identificação de padrões e insights.
-- **Visualização**: Criação de gráficos e tabelas para facilitar a interpretação dos resultados.
+- **Visualização**: Criação de gráficos e poer BI para facilitar a interpretação dos resultados.
 
 ## 🧰 Tecnologias Utilizadas
 
@@ -19,10 +19,11 @@ O foco da análise foi investigar as viagens realizadas por servidores públicos
   - Seaborn
   - Plotly
 - Jupyter Notebook
+- Power BI
 
 ## 📈 Resultados Destacados
 
-- dentificação de padrões de viagens por cargo público.
+- Identificação de padrões de viagens por cargo público.
 
 - Análise de custos associados às viagens.
 
