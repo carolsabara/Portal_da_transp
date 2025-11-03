@@ -2,6 +2,15 @@
 
 Este projeto foi realizado durante o curso **"Python para Dados: do zero à análise completa"**, com o objetivo de praticar a extração, manipulação, limpeza e análise de dados fornecidos pelo Portal da Transparência.
 
+🎥 **Assista ao Dashboard em ação**  
+➡️ [Visualizar o vídeo do projeto no GitHub](https://github.com/carolsabara/Portal_da_transp/blob/main/ver_dashboard.mp4)
+
+📊 **Análise de Viagens por Servidores Públicos**
+
+Dashboard interativo em **Power BI** desenvolvido com dados do **Portal da Transparência**, explorando padrões de viagens, cargos e custos.  
+O pro
+
+
 ## 🔍 Sobre o Projeto
 
 O foco da análise foi investigar as viagens realizadas por servidores públicos, utilizando dados extraídos do Portal da Transparência. As etapas incluem:
